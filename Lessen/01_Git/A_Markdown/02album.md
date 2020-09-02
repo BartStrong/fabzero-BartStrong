@@ -20,6 +20,6 @@ images:
 
 # Album Images
 
-![zonsondergang]({{ site.baseurl }}/assets/Mooie28.jpg)
+![zonsondergang]({{ site.baseurl }}/assets/mooie28.jpg)
 
 {% include album.liquid data=page.images %}
