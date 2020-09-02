@@ -20,7 +20,6 @@ images:
 
 # Album Images
 
-
 ![zonsondergang]({{ site.baseurl }}/assets/Mooie-zomerachtergronden-hd-wallpaper-zomer-wallpapers-28.jpg)
 
 {% include album.liquid data=page.images %}
