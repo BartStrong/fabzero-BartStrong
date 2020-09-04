@@ -17,27 +17,27 @@ Beantwoord de volgende vragen rond je eind project:
 
 #
  
-*Wat doet het?
+* Wat doet het?
 
-*Wie heeft wat voordien gedaan?
+* Wie heeft wat voordien gedaan?
 
-*Wat heb je ontworpen?
+* Wat heb je ontworpen?
 
-*Welke materialen en componenten heb je gebruikt?
+* Welke materialen en componenten heb je gebruikt?
 
-*Waar komen ze vandaan?
+* Waar komen ze vandaan?
 
-*Hoeveel kosten ze?
+* Hoeveel kosten ze?
 
-*Welke onderdelen en systemen bouwde je?
+* Welke onderdelen en systemen bouwde je?
 
-*Welke processen heb je gebruikt?
+* Welke processen heb je gebruikt?
 
-*Welke vragen heb je beantwoord?
+* Welke vragen heb je beantwoord?
 
-*Hoe heb je het project geëvalueerd?
+* Hoe heb je het project geëvalueerd?
 
-*Wat zijn de implicaties?
+* Wat zijn de implicaties?
 
 # Assessment criteria
 
