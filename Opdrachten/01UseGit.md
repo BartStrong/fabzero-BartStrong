@@ -22,4 +22,12 @@ Sinds 2019 ziek gevallen wegens burn-out / depressie, waarvoor ik in Inghelburch
 Via een mail van één van de begeleiders is het FabLab mij onder de ogen gebracht. Ik heb me dan ook onmiddellijk ingeschreven voor deze cursus.
 De onderwerpen die aangehaald worden lijken mij héél interessant.
 
+# Interesses
+
+Ja
+
+# Hobbies
+
+Ja
+
 source: `{{ page.path }}`
