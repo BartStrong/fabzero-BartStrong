@@ -4,19 +4,19 @@
 
 # Korte inhoud van de les
 
->Hoe tekenen we in 2D?
+* Hoe tekenen we in 2D?
 
-Welke programmas bestaan er allemaal om in 2D te tekenen
+* Welke programmas bestaan er allemaal om in 2D te tekenen
 
-Basis inkscape
+* Basis inkscape
 
-Welke machines kunnen we gebruiken als we een 2D tekening gemaakt hebben?
+* Welke machines kunnen we gebruiken als we een 2D tekening gemaakt hebben?
 
-Intro lasersnijden
+* Intro lasersnijden
 
-Intro vinyl snijden
+* Intro vinyl snijden
 
-Zelf een tekening maken
+* Zelf een tekening maken
 
 # Opdracht tegen volgende les
 
@@ -24,16 +24,16 @@ Lasercut iets voor in een van de ruimtes van je huis. Ga indien mogelijk weg uit
 
 # Assessment criteria
 
-Je hebt iets gecreëerd in 2D software
+* Je hebt iets gecreëerd in 2D software
 
-Je hebt iets uitgesneden met de lasercutter en/of de vinylsnijder
+* Je hebt iets uitgesneden met de lasercutter en/of de vinylsnijder
 
-Je hebt gedocumenteerd hoe je dit bovenstaande deed
+* Je hebt gedocumenteerd hoe je dit bovenstaande deed
 
-Je hebt je originele ontwerp files toegevoegd aan je Github repo/pagina van deze week.
+* Je hebt je originele ontwerp files toegevoegd aan je Github repo/pagina van deze week.
 
-Welke problemen kwam je tegen, en hoe heb je ze opgelost?
+* Welke problemen kwam je tegen, en hoe heb je ze opgelost?
 
-Maak een hero shot van je ontwerp
+* Maak een hero shot van je ontwerp
 
 # Lesmateriaal
