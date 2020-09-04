@@ -17,7 +17,7 @@ Het middelbaar achter de rug ben ik naar het _HTI-Oostende_ gegaan om daar de st
 Het heeft een aantal jaar geduurd (verschillende jobs / interims gedaan) alvorens ik in Pietercil terechtgekomen ben.  Daar ben ik uiteindelijk 22,5 jaar gebleven.
 Sinds 2019 bn ik ziek gevallen wegens burn-out / depressie, waarvoor ik in Inghelburch aan het revalideren ben, het jaar is voorbijgevlogen.
 
-# FabLab
+# FabZero
 
 Via een mail van één van de begeleiders is het FabLab mij onder de ogen gebracht. Ik heb me dan ook onmiddellijk ingeschreven voor deze cursus.
 De onderwerpen die aangehaald worden lijken mij héél interessant.
