@@ -6,7 +6,7 @@ Stuur de link naar deze repo naar de FabZero verantwoordelijke.
 
 # Info **BartStrong**
 
-![Baard]({{ site.baseurl }})/assets/dikken board2.jpg)
+![Baard]({{ site.baseurl }}/assets/dikken board2.jpg)
 
 ## Schoolse opleidingen
 
