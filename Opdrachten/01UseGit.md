@@ -9,13 +9,13 @@ Stuur de link naar deze repo naar de FabZero verantwoordelijke.
 ## Schoolse opleidingen
 
 Bart Strongman is 55 jaar geleden in Varsenare geboren (sindsdien is het ziekenhuis gesloten, dat wouden ze niet meer meemaken)
-Na een 3 tal jaar in het _Sint-Andreasinstituut_ in Brugge ben ik overgeschakeld naar het _Xaverianeninstituut_, ook in Brugge.
-Het middelbaar achter de rug ben ik naar het HTI-Oostende gegaan om daar de graduaat studies electronica (optie microprocessoren) af te ronden.
+Na een 3 tal jaar lagere school gevolgd te hebben in het _Sint-Andreasinstituut_ in Brugge ben ik overgeschakeld naar het _Xaveriusinstituut_, ook in Brugge.
+Het middelbaar achter de rug ben ik naar het _HTI-Oostende_ gegaan om daar de studies Graduaat electronica (optie microprocessoren) af te ronden.
 
 ## Carrière
 
 Het heeft een aantal jaar geduurd (verschillende jobs / interims gedaan) alvorens ik in Pietercil terechtgekomen ben.  Daar ben ik uiteindelijk 22,5 jaar gebleven.
-Sinds 2019 ziek gevallen wegens burn-out / depressie, waarvoor ik in Inghelburch aan het revalideren ben.
+Sinds 2019 bn ik ziek gevallen wegens burn-out / depressie, waarvoor ik in Inghelburch aan het revalideren ben, het jaar is voorbijgevlogen.
 
 # FabLab
 
