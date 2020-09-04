@@ -7,8 +7,7 @@ Stuur de link naar deze repo naar de FabZero verantwoordelijke.
 # Info **BartStrong**
 
 ![Branching][Baard]({{ site.baseurl }}/assets/dikken_board2.jpg)
-<<<<<<< HEAD
-=======
+
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ## Schoolse opleidingen
