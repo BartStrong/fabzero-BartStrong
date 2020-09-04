@@ -36,7 +36,7 @@ Hoe heb je het project geëvalueerd?
 
 Wat zijn de implicaties?
 
-# Assesment criteria
+# Assessment criteria
 
 Heb je de bovenstaande vragen in diepte beantwoord?
 
