@@ -6,6 +6,8 @@ Stuur de link naar deze repo naar de FabZero verantwoordelijke.
 
 # Info **BartStrong**
 
+![Baard]({{ site.baseurl }})/assets/dikken board2.jpg)
+
 ## Schoolse opleidingen
 
 Bart Strongman is 55 jaar geleden in Varsenare geboren (sindsdien is het ziekenhuis gesloten, dat wouden ze niet meer meemaken)
@@ -14,13 +16,12 @@ Het middelbaar achter de rug ben ik naar het _HTI-Oostende_ gegaan om daar de st
 
 ## Carrière
 
-Het heeft een aantal jaar geduurd (verschillende jobs / interims gedaan) alvorens ik in Pietercil terechtgekomen ben.  Daar ben ik uiteindelijk 22,5 jaar gebleven.
-Sinds 2019 bn ik ziek gevallen wegens burn-out / depressie, waarvoor ik in Inghelburch aan het revalideren ben, het jaar is voorbijgevlogen.
+Na een aantal omzwervingen ben ik uiteindelijk in het bedrijf terechtgekomen waar ik tot nu tewerkgesteld ben, verschillende taken en rollen opgenomen, de teller staat reeds op 22,5 jaar.
 
 # FabZero
 
-Via een mail van één van de begeleiders is het FabLab mij onder de ogen gebracht. Ik heb me dan ook onmiddellijk ingeschreven voor deze cursus.
-De onderwerpen die aangehaald worden lijken mij héél interessant.
+Via een mail van één van de begeleiders is het FabZero project mij onder de ogen gebracht. Ik heb me dan ook onmiddellijk ingeschreven voor deze cursus.
+De onderwerpen die aangehaald worden lijken mij héél interessant.  Ik zie dat er tussen de keuzelijst een optie staat om rPi met OpenCV te gebruiken. (beeldverwerking)
 
 # Interesses
 
@@ -28,6 +29,6 @@ Ja
 
 # Hobbies
 
-Ja
+Motorrijden, muziek beluisteren, Netflixen, Youtube, imgur, verkeer, 
 
 source: `{{ page.path }}`
