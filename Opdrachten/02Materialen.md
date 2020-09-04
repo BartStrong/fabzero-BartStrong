@@ -14,8 +14,6 @@
 # Opdracht tegen volgende les
 
 Beantwoord de volgende vragen rond je eind project:
-
-#
  
 * Wat doet het?
 
