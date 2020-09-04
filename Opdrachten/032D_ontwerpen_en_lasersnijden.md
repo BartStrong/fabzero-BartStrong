@@ -1,6 +1,6 @@
 # Les 03: 2D ontwerpen en lasersnijden
 
-##Amy Beaulisch Projectleider
+## Amy Beaulisch Projectleider
 
 # Korte inhoud van de les
 
