@@ -12,8 +12,11 @@
 >Als laatste staan we ook stil bij ons eindproject. Waaraan moet het voldoen? Welke vragen moeten beantwoord worden?
 
 # Opdracht tegen volgende les
+
 Beantwoord de volgende vragen rond je eind project:
 
+#
+ 
 *Wat doet het?
 
 *Wie heeft wat voordien gedaan?
