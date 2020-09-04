@@ -1,6 +1,6 @@
 # Les 02:Materialen en Design
 
-# Adriaan Debruyne Gastdocent
+## Adriaan Debruyne Gastdocent
 
 # Korte inhoud van de les
 >Ontwerpen zonder materiaalkennis is een no go. Daarom voegen we een extra module toe die niet te vinden is in de FabAcademy zelf waarbij de deelnemers meegenomen worden doorheen het ontwerpproces en materialenleer.
@@ -15,17 +15,29 @@
 Beantwoord de volgende vragen rond je eind project:
 
 Wat doet het?
+
 Wie heeft wat voordien gedaan?
+
 Wat heb je ontworpen?
+
 Welke materialen en componenten heb je gebruikt?
+
 Waar komen ze vandaan?
+
 Hoeveel kosten ze?
+
 Welke onderdelen en systemen bouwde je?
-Welke processen heb je gebruikt
+
+Welke processen heb je gebruikt?
+
 Welke vragen heb je beantwoord?
+
 Hoe heb je het project geëvalueerd?
+
 Wat zijn de implicaties?
-Assesment criteria
+
+# Assesment criteria
+
 Heb je de bovenstaande vragen in diepte beantwoord?
 
 # Lesmateriaal
