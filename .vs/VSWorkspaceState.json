@@ -1,10 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
     "\\Lessen",
     "\\Lessen\\01_Git",
-    "\\Opdrachten"
+    "\\Lessen\\01_Git\\A_Markdown",
+    "\\Opdrachten",
+    "\\Voorbeeld\\folder1"
   ],
-  "SelectedNode": "\\_config.yml",
+  "SelectedNode": "\\Opdrachten\\032D_ontwerpen_en_lasersnijden.md",
   "PreviewInSolutionExplorer": false
 }
