@@ -12,8 +12,8 @@ Stuur de link naar deze repo naar de FabZero verantwoordelijke.
 
 ## Schoolse opleidingen
 
-Bart Strongman is 55 jaar geleden in Varsenare geboren (sindsdien is het ziekenhuis gesloten, dat wouden ze niet meer meemaken)
-Na een 3 tal jaar lagere school gevolgd te hebben in het _Sint-Andreasinstituut_ in Brugge ben ik overgeschakeld naar het _Xaveriusinstituut_, ook in Brugge.
+Bart Strongman is 55 jaar geleden in [Varsenare](https://en.wikipedia.org/wiki/Varsenare) geboren (sindsdien is het ziekenhuis gesloten, dat wouden ze niet meer meemaken)
+Na een 3 tal jaar lagere school gevolgd te hebben in het [_Sint-Andreasinstituut_](https://www.sint-andreas-brugge.be/) in [Brugge](https://www.brugge.be/) ben ik overgeschakeld naar het [_Xaveriusinstituut_](https://www.sfxbrugge.be/nl/), ook in Brugge.
 Het middelbaar achter de rug ben ik naar het _HTI-Oostende_ gegaan om daar de studies Graduaat electronica (optie microprocessoren) af te ronden.
 
 ## Carrière
@@ -31,6 +31,17 @@ Ja
 
 # Hobbies
 
-Motorrijden, muziek beluisteren, Netflixen, Youtube, imgur, verkeer, 
+| Hobbies die renderen      | Hobbies die geld kosten         |
+|-----------|-----------------|
+|  | Motor rijden        |
+|  | Muziek beluisteren |
+|  | Netflixen        |
+|  | Verkeer        |
+|  | Strongman     |
+| Fitness   | Fitness        |
+|  | Vrachtwagen trekken        |
+
+
+Motorrijden, muziek beluisteren, Netflixen, Youtube, imgur, verkeer, Fitness, strongman, vrachtwagentrekken 
 
 source: `{{ page.path }}`
