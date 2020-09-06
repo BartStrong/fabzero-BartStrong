@@ -41,7 +41,4 @@ Ja
 | Fitness   | Fitness        |
 |  | Vrachtwagen trekken        |
 
-
-Motorrijden, muziek beluisteren, Netflixen, Youtube, imgur, verkeer, Fitness, strongman, vrachtwagentrekken 
-
 source: `{{ page.path }}`
