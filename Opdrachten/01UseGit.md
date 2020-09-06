@@ -34,11 +34,13 @@ Ja
 | Hobbies die renderen      | Hobbies die geld kosten         |
 |-----------|-----------------|
 |  | Motor rijden        |
-|  | Muziek beluisteren |
+|  | [Muziek](https://music.youtube.com/watch?v=qhMvAhqIgRM) beluisteren |
 |  | Netflixen        |
 |  | Verkeer        |
 |  | Strongman     |
 | Fitness   | Fitness        |
 |  | Vrachtwagen trekken        |
+
+![BartStrong](https://www.facebook.com/photo.php?fbid=440621766760611&set=pb.100024383731139.-2207520000..&type=3)
 
 source: `{{ page.path }}`
