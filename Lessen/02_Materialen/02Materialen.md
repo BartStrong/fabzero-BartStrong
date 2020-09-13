@@ -42,3 +42,12 @@ Beantwoord de volgende vragen rond je eind project:
 Heb je de bovenstaande vragen in diepte beantwoord?
 
 # Lesmateriaal
+
+# Ontwerp en Materialen
+
+Wat is de werkwijze om iets te gaan ontwerpen, waar dient men rekening mee te houden?
+Zonder materialen is het ook niet mogelijk iets tastbaars te ontwerpen.
+
+## Ontwerpen
+
+## Materialen
