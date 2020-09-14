@@ -50,6 +50,11 @@ Zonder materialen is het ook niet mogelijk iets tastbaars te ontwerpen.
 
 ## Ontwerpen
 
+[SDG's](https://www.sdgs.be/nl/sdgs)
+>Duurzame ontwikkelingsdoelstellingen
+
+
+
 9 windows context mapping
 
 ## Materialen
