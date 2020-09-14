@@ -57,4 +57,10 @@ Zonder materialen is het ook niet mogelijk iets tastbaars te ontwerpen.
 
 9 windows context mapping
 
+9 WINDOWS context mapping | PAST      | PRESENT  | FUTURE  |
+|-------------------|-----------------|------|
+Supersystem|   |   |   |
+System|   |   |   |
+Subsystem|   |   |   |
+
 ## Materialen
