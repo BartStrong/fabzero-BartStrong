@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Lessen",
+    "\\Lessen\\01_Git",
+    "\\Lessen\\02_Materialen",
+    "\\Lessen\\03_2D_Ontwerpen_en_lasersnijden",
+    "\\Opdrachten"
   ],
+  "SelectedNode": "\\Opdrachten\\01UseGit.md",
   "PreviewInSolutionExplorer": false
 }

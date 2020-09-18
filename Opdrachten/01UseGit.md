@@ -48,3 +48,5 @@ source: `{{ page.path }}`
 ![Van .Docx naar .md](https://gist.github.com/vzvenyach/7278543)
 ![van word naar markdown](https://pandoc.org/)
 ![Visual Studio support voor Markdown](https://code.visualstudio.com/Docs/languages/markdown)
+![markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+![convert MSword to MD with images](https://christiantietze.de/posts/2019/07/convert-docx-to-markdown/)
