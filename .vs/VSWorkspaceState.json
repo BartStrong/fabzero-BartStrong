@@ -1,12 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
     "\\Lessen",
-    "\\Lessen\\01_Git",
-    "\\Lessen\\01_Git\\A_Markdown",
+    "\\Lessen\\02_Materialen",
     "\\Opdrachten"
   ],
-  "SelectedNode": "\\Lessen\\01_Git\\A_Markdown\\01markdown.md",
+  "SelectedNode": "\\Opdrachten\\02Materialen.md",
   "PreviewInSolutionExplorer": false
 }

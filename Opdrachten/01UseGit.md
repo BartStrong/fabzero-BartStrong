@@ -44,3 +44,7 @@ Ja
 ![BartStrong](https://www.facebook.com/photo.php?fbid=440621766760611&set=pb.100024383731139.-2207520000..)
 
 source: `{{ page.path }}`
+
+![Van .Docx naar .md](https://gist.github.com/vzvenyach/7278543)
+![van word naar markdown](https://pandoc.org/)
+![Visual Studio support voor Markdown](https://code.visualstudio.com/Docs/languages/markdown)
