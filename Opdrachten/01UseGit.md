@@ -50,3 +50,4 @@ source: `{{ page.path }}`
 ![Visual Studio support voor Markdown](https://code.visualstudio.com/Docs/languages/markdown)
 ![markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 ![convert MSword to MD with images](https://christiantietze.de/posts/2019/07/convert-docx-to-markdown/)
+![word cloud](https://indesignsecrets.com/creating-a-word-cloud-in-indesign.php)
