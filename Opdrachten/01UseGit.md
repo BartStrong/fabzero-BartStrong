@@ -51,3 +51,5 @@ source: `{{ page.path }}`
 ![markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 ![convert MSword to MD with images](https://christiantietze.de/posts/2019/07/convert-docx-to-markdown/)
 ![word cloud](https://indesignsecrets.com/creating-a-word-cloud-in-indesign.php)
+
+>[!VIDEO](https://www.youtube.com/watch?v=A0EcD2AxvJE)
