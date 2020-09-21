@@ -3,10 +3,9 @@
     "",
     "\\Lessen",
     "\\Lessen\\01_Git",
-    "\\Lessen\\02_Materialen",
-    "\\Lessen\\03_2D_Ontwerpen_en_lasersnijden",
-    "\\Opdrachten"
+    "\\Lessen\\01_Git\\A_Markdown",
+    "\\Lessen\\02_Materialen"
   ],
-  "SelectedNode": "\\Lessen\\03_2D_Ontwerpen_en_lasersnijden",
+  "SelectedNode": "\\Lessen\\02_Materialen\\02Materialen.md",
   "PreviewInSolutionExplorer": false
 }
