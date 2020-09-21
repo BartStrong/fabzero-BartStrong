@@ -42,14 +42,14 @@ Lasercut iets voor in een van de ruimtes van je huis. Ga indien mogelijk weg uit
 _Schets gemaakt Lounge stoel_
 
 ![Aanpassen ontwerp](https://github.com/BartStrong/fabzero-BartStrong/blob/master/Lessen/03_2D_Ontwerpen_en_lasersnijden/20200917_180944.jpg)
-_Het ontwerp is gespliced in plaats van gebogen platen te gebruiken.  _
+_Het ontwerp is gespliced in plaats van gebogen platen te gebruiken._
 De uitdaging bij de gebogen platen is dat de lasercutter enkel loodrecht in het oppervlak kan snijden, dit heeft voor gevolg dat de platen uit de Y-richting nooit in de platen uit de Z-richting zouden passen.  In dit voorstel bestaan de steunplaten uit een enkele boog hout.
 
 ![vrouwelijke vormgeving](https://github.com/BartStrong/fabzero-BartStrong/blob/master/Lessen/03_2D_Ontwerpen_en_lasersnijden/20200917_180939.jpg)
-_Kan het ontwerp "vrouwelijker, meer vloeiender worden?"  _
-_Daarnaast, wat zou er gebeuren als we de parallelle platen ahw in het midden "samenduwen"  _
+_Kan het ontwerp "vrouwelijker, meer vloeiender worden?"_
+_Daarnaast, wat zou er gebeuren als we de parallelle platen ahw in het midden "samenduwen", dit geeft ons een stuk hout dat 3 buigingen kent_
 ![uitgesneden project](https://github.com/BartStrong/fabzero-BartStrong/blob/master/Lessen/03_2D_Ontwerpen_en_lasersnijden/20200917_180622.jpg)
 _2D onderdelen uitgesneden_
-Het model is gemaakt in een schaal 1 op 10
-De zithoogte is 45 cm (wat overeenkomt met de zithoogte van een gewone stoel)
-Het hoogste punt van de steun van de lounge stoel is 85 cm wat overeenkomt met de gemiddelde hoogte van een gewone werktafel.
+Het model is gemaakt in een schaal 1 op 10.  
+De zithoogte is 45 cm (wat overeenkomt met de zithoogte van een gewone stoel).  
+Het hoogste punt van de steun van de lounge stoel is 85 cm wat overeenkomt met de gemiddelde hoogte van een gewone werktafel.  
