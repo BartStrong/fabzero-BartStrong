@@ -41,6 +41,11 @@ Lasercut iets voor in een van de ruimtes van je huis. Ga indien mogelijk weg uit
 ![ontwerp lounge](https://github.com/BartStrong/fabzero-BartStrong/blob/master/Lessen/03_2D_Ontwerpen_en_lasersnijden/20200917_180933.jpg)
 _Schets gemaakt Lounge stoel_
 
+* De plank waar men op zal liggen, bestaat uit een vlakke rugsteun, een dubbel gebogen zitting en een vlakke voetensteun (dit komt niet overeen met hoe de sokkel van de lounge stoel gebouwd is)
+* Het voorstel is om de rug en de voeten te ondersteunen door een verbreding van de sokkel
+* Extra input gekregen (van: vul hier de naam van de dame in!!), bij de meeste dames zijn de heupen breder/zwaarderdan de schouders (beperkte visie door de designer!)
+* Er is een schets gemaakt waarin het zitvlak op de volledige breedte ondersteund zou worden.
+
 ![Aanpassen ontwerp](https://github.com/BartStrong/fabzero-BartStrong/blob/master/Lessen/03_2D_Ontwerpen_en_lasersnijden/20200917_180944.jpg)
 _Het ontwerp is gespliced in plaats van gebogen platen te gebruiken._
 De uitdaging bij de gebogen platen is dat de lasercutter enkel loodrecht in het oppervlak kan snijden, dit heeft voor gevolg dat de platen uit de Y-richting nooit in de platen uit de Z-richting zouden passen.  In dit voorstel bestaan de steunplaten uit een enkele boog hout.
