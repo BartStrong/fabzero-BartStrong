@@ -42,11 +42,11 @@ Lasercut iets voor in een van de ruimtes van je huis. Ga indien mogelijk weg uit
 _Schets gemaakt Lounge stoel_
 
 ![Aanpassen ontwerp](https://github.com/BartStrong/fabzero-BartStrong/blob/master/Lessen/03_2D_Ontwerpen_en_lasersnijden/20200917_180944.jpg)
-_Het ontwerp is gespliced in plaats van gebogen platen te gebruiken_
-De uitdaging bij de gebogen platen is dat de lasercutter enkel loodrecht kan snijden
+_Het ontwerp is gespliced in plaats van gebogen platen te gebruiken.  _
+De uitdaging bij de gebogen platen is dat de lasercutter enkel loodrecht kan snijden, in dit voorstel bestaan de steunplaten uit een enkele boog hout.
 
 ![vrouwelijke vormgeving](https://github.com/BartStrong/fabzero-BartStrong/blob/master/Lessen/03_2D_Ontwerpen_en_lasersnijden/20200917_180939.jpg)
-_Kan het ontwerp "vrouwelijker, meer vloeiender worden?"_
-
+_Kan het ontwerp "vrouwelijker, meer vloeiender worden?"  _
+_Daarnaast, wat zou er gebeuren als we de parallelle platen "samenduwen"  _
 ![uitgesneden project](https://github.com/BartStrong/fabzero-BartStrong/blob/master/Lessen/03_2D_Ontwerpen_en_lasersnijden/20200917_180622.jpg)
-
+_2D onderdelen uitgesneden_
