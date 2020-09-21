@@ -6,7 +6,7 @@ Stuur de link naar deze repo naar de FabZero verantwoordelijke.
 
 # Info **BartStrong**
 
-![Branching][Baard]({{ site.baseurl }}/assets/dikken_board2.jpg)
+![Branching][Baard]({{ site.baseurl }}/assets/dikken_board2.jpg)  
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
@@ -44,3 +44,10 @@ Ja
 ![BartStrong](https://www.facebook.com/photo.php?fbid=440621766760611&set=pb.100024383731139.-2207520000..)
 
 source: `{{ page.path }}`
+
+![Van .Docx naar .md](https://gist.github.com/vzvenyach/7278543)
+![van word naar markdown](https://pandoc.org/)
+![Visual Studio support voor Markdown](https://code.visualstudio.com/Docs/languages/markdown)
+![markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+![convert MSword to MD with images](https://christiantietze.de/posts/2019/07/convert-docx-to-markdown/)
+![word cloud](https://indesignsecrets.com/creating-a-word-cloud-in-indesign.php)

@@ -2,6 +2,16 @@
 
 ## Amy Beaulisch Projectleider
 
+# 2D ontwerpen
+
+We gebruiken (2D - 3D) teken-programma's waarmee bestanden kunnen worden aangemaakt die men nadien naar machines kan sturen.  De machine interpreteert de bestanden en voert handelingen uit op het gebruikte materiaal.
+
+
+
+
+
+
+
 # Korte inhoud van de les
 
 * Hoe tekenen we in 2D?
@@ -24,7 +34,7 @@ Lasercut iets voor in een van de ruimtes van je huis. Ga indien mogelijk weg uit
 
 # Assessment criteria
 
-* Je hebt iets gecreëerd in 2D software
+* Je hebt iets gecreÃ«erd in 2D software
 
 * Je hebt iets uitgesneden met de lasercutter en/of de vinylsnijder
 
@@ -37,3 +47,5 @@ Lasercut iets voor in een van de ruimtes van je huis. Ga indien mogelijk weg uit
 * Maak een hero shot van je ontwerp
 
 # Lesmateriaal
+
+![ontwerp gelaserd](https://github.com/BartStrong/fabzero-BartStrong/blob/master/Lessen/03_2D_Ontwerpen_en_lasersnijden/20200917_180622.jpg)
