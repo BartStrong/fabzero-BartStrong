@@ -37,3 +37,12 @@ Lasercut iets voor in een van de ruimtes van je huis. Ga indien mogelijk weg uit
 * Maak een hero shot van je ontwerp
 
 # Lesmateriaal
+
+![ontwerp lounge](https://github.com/BartStrong/fabzero-BartStrong/blob/master/Lessen/03_2D_Ontwerpen_en_lasersnijden/20200917_180933.jpg)
+
+![Aanpassen ontwerp](https://github.com/BartStrong/fabzero-BartStrong/blob/master/Lessen/03_2D_Ontwerpen_en_lasersnijden/20200917_180944.jpg)
+
+![vrouwelijke vormgeving](https://github.com/BartStrong/fabzero-BartStrong/blob/master/Lessen/03_2D_Ontwerpen_en_lasersnijden/20200917_180939.jpg)
+
+![uitgesneden project](https://github.com/BartStrong/fabzero-BartStrong/blob/master/Lessen/03_2D_Ontwerpen_en_lasersnijden/20200917_180622.jpg)
+
