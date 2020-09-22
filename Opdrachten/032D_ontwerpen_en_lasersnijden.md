@@ -52,7 +52,7 @@ De uitdaging bij het voorstel met de gebogen platen is dat de lasercutter enkel 
 
 ![vrouwelijke vormgeving](https://github.com/BartStrong/fabzero-BartStrong/blob/master/Lessen/03_2D_Ontwerpen_en_lasersnijden/20200917_180939.jpg)
 _Kan het ontwerp "vrouwelijker, meer vloeiender gemaakt worden?"_
-_Daarnaast, wat zou er gebeuren als we de parallelle platen ahw in het midden "samenduwen", dit geeft ons een stuk hout dat 3 buigingen kent_
+_Daarnaast, wat zou er gebeuren als we de parallelle platen ahw in het midden "samenduwen", dit geeft ons dan telkens een stuk hout dat 3 buigingen kent, als we dit doen door speciale patronen te maken met de lasercutter, dan krijgen we meer verzwakt hout, dan als we het hout slechts 1x zouden buigen._
 
 
 Hierna is er Mark_ant werk gebeurd, plots had ik een PDF bestand om te laten snijden op de houten plank.
