@@ -73,7 +73,7 @@ _in MaM Brugge ligt er bij de lasercutter een handleiding (V0.95), de verbeterde
 _Extra controle op de tekening, adhv een preview kunnen we nagaan of alles wel binnen de dimensies van de gekozen houten plaat zullen vallen._
 
 ![kiektekè no die vuulbakkn](https://github.com/BartStrong/fabzero-BartStrong/blob/master/Lessen/03_2D_Ontwerpen_en_lasersnijden/20200917_174248.jpg)
-_Mooie vuilbakken in Mam, het zwart-wit motief spreekt me wel aan, ook de ruwe industriebouw van het lokaal vind ik aangenaam om te bekijken_
+_Mooie vuilbakken in Mam, het zwart-wit motief spreekt me wel aan, ook de ruwe industriebouw van het lokaal (oude garages van Belgacom) creëren een aangename omgeving_
 
 ![Linkse bovenhoek van de plaat moet in de hoek van de lasercutter liggen](https://github.com/BartStrong/fabzero-BartStrong/blob/master/Lessen/03_2D_Ontwerpen_en_lasersnijden/20200917_174321.jpg)
 _Controleer of de linker bovenhoek van het gebruikte materiaal goed aansluit met het nulpunt van de lasercutter_
