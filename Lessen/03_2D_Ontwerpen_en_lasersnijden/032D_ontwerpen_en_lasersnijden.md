@@ -7,8 +7,9 @@
 We gebruiken (2D - 3D) teken-programma's waarmee bestanden kunnen worden aangemaakt die men nadien naar machines kan sturen.  De machine interpreteert de bestanden en voert handelingen uit op het gebruikte materiaal.
 
 
-![Tips & Trics for lasercutting with Inkscape](https://www.sculpteo.com/en/prepare-your-file-laser-cutting/prepare-your-model-laser-cutting-inkscape/laser-cutting-inkscape-tips-laser-cutting/)
+![Tips & Trics for lasercutting with Inkscape](https://www.sculpteo.com/en/prepare-your-file-laser-cutting/prepare-your-model-laser-cutting-inkscape/laser-cutting-inkscape-customizing-your-document-properties-inkscape/)
 
+![Way of Wood tools library voor FreeCAD](https://wayofwood.com/laser-cutting-cad-design-with-freecad)
 
 
 
