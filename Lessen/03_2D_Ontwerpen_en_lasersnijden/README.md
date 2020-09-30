@@ -50,3 +50,5 @@ Lasercut iets voor in een van de ruimtes van je huis. Ga indien mogelijk weg uit
 # Lesmateriaal
 
 ![ontwerp gelaserd](https://github.com/BartStrong/fabzero-BartStrong/blob/master/Lessen/03_2D_Ontwerpen_en_lasersnijden/20200917_180622.jpg)
+
+source: `{{ page.path }}`
