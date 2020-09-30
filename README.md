@@ -1,4 +1,4 @@
-# FabZero Traject "STUDENT"
+# FabZero Traject "BartStrong"
 [![logo](https://ingegnomakerspace.github.io/inclusievekets/assets/images/logo.svg)][fabzero]
 
 Zie de site op [ingegno.github.io/fabzero-student-template](https://ingegno.github.io/fabzero-student-template/).
