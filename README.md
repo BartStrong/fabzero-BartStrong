@@ -9,7 +9,7 @@ Template voor FabZero gebaseerd [jekyll-rtd-theme](https://github.com/rundocs/je
 
 ## Who am I?
 
-???
+BartStrong
 
 ## The license
 The theme is available as open source under the terms of the MIT License. The content is Creatieve Commons, non-commercial.
