@@ -16,7 +16,7 @@ sort: 2
 10. Les 10:Aan de slag met de CNC-frees en etsen.
 11. Les 11:Programmeren in Python.
 12. Les 12:Product Presentation.
-13. Wildcard01:Artifici�le Intelligentie.
+13. Wildcard01:Artificiele Intelligentie.
 14. Wildcard02:App Inventor.
 
 {% include list.liquid all=true %}
