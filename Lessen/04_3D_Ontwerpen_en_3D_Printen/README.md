@@ -1,6 +1,7 @@
 # Les 04: 3D Ontwerpen en 3D Printen
 
-#Komt uit het boek 3D Printing
+# Komt uit het boek 3D Printing
+
 1. Obtain 3D object files to print
 2. Check object(s) for general printability (Check: correct file format for slicer, manifold and error checked)
 3. Determine the required size/scale of object(s). Important for STL files (Effects: amount of print time and
