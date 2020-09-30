@@ -20,3 +20,5 @@ sort: 2
 14. Wildcard02:App Inventor.
 
 {% include list.liquid all=true %}
+
+source: `{{ page.path }}`
