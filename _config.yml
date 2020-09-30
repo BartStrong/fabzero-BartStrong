@@ -2,7 +2,7 @@ title: FabZero BartStrong
 lang: en
 description: Git FabZero van BartStrong
 
-theme: null
+theme: jekyll-theme-slate
 
 nav_version: true
 edit: true
